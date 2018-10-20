@@ -119,5 +119,5 @@ textarea {
 }
 
 .@media(max-width:670px) {
-	width: 50%;
+	*{width: 50%;}
 }
