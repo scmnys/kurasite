@@ -117,3 +117,7 @@ textarea {
 	padding-bottom: 20px;
 	font-size: 10px;
 }
+
+.@media(max-width:670px) {
+	width: 50%;
+}
