@@ -119,5 +119,9 @@ textarea {
 }
 
 .@media(max-width:670px) {
-	*{width: 50%;}
+	contents-item1 {width: 50%;}
+}
+
+.@media(max-width:670px) {
+	contents-item2 {width: 50%}
 }
